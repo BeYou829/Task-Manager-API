@@ -33,6 +33,5 @@ Task-Manager-API/
 │   ├── utils/              # Funciones utilitarias
 │   ├── index.js            # Punto de entrada del servidor
 │   ├── package.json        # Dependencias y scripts del backend
-│   └── .env                # Variables de entorno
 ├── .gitignore              # Archivos y carpetas ignorados por Git
 └── README.md               # Documentación del proyecto
