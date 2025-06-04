@@ -12,7 +12,7 @@ Aplicación full-stack para la gestión de tareas, desarrollada con React, Node.
 - **Control de Errores**: Middleware de Express y validaciones personalizadas
 
 ## 📁 Estructura del Proyecto
-
+ ```bash
 Task-Manager-API/
 ├── client/                 # Aplicación frontend (React + Vite)
 │   ├── public/             # Archivos estáticos públicos
